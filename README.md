@@ -13,8 +13,9 @@ Skills: Manual Testing / API Testing(Postman) / Performance Testing(Jmeter) /Git
 - 🌱 I’m currently learning Selenium With Java 
 - 💬 Ask me about Manual testing/Postman/Jmeter/Selenium(Java)/Maven/git 
 
+![Profile views](https://gpvc.arturio.dev/shihab0005)    
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shihab0005)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100019857312756)  
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shihab0005)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -22,7 +23,7 @@ Skills: Manual Testing / API Testing(Postman) / Performance Testing(Jmeter) /Git
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shihab0005&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/shihab0005)    
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shihab0005)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100019857312756)  
 
 
 
