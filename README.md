@@ -6,7 +6,7 @@ As a computer science student, my keen interest in Software Engineer(QA).I am wo
 I also work with few web apps project using html, css, javascript, bootstrap, materialUI, react.js, firebase, expressJs and node Js to build . Always try to follow best practices for writing clean and understandable code.I try myself keep patient in difficulties and always try to learn something new to do better from previous.
 
 ### Skills
- ✔ Manual Testing <br/>
+ ✔ ###Manual Testing <br/>
  ✔ API Testing(Postman) <br/>
  ✔ Performance Testing(Jmeter) <br/>
  ✔ Git<br/>
