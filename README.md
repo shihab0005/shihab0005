@@ -13,6 +13,10 @@ I try myself keep patient in difficulties and always try to learn something new 
  ✔ Git<br/>
  ✔ Automation Testing(Selenium JAVA)<br/>
  <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+ 
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shihab0005&show_icons=true&locale=en&layout=compact" alt="shihab0005" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shihab0005&show_icons=true&locale=en" alt="shihab0005" /></p>s
 
 ### Programming
  ✔ C <br/>
