@@ -30,7 +30,7 @@ I also work with few web apps project using html, css, javascript, bootstrap, Ta
 - 🌱 I’m currently learning Selenium With Java 
 - 💬 Ask me about Manual testing/Postman/Jmeter/Selenium(Java)/Maven/git 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-shihab-khan-b72b4a241//)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-shihab-khan-b72b4a241/) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shihab0005) 
 
 ![Profile views](https://gpvc.arturio.dev/shihab0005) 
