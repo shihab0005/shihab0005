@@ -13,7 +13,13 @@ I try myself keep patient in difficulties and always try to learn something new 
  ✔ Git<br/>
  ✔ Automation Testing(Selenium JAVA)<br/>
 
-Programming : JAVA / Javascript / HTML / CSS
+### Programming
+ ✔ Java <br/>
+ ✔ Javascript <br/>
+ ✔ ReactJs <br/>
+ ✔ Html/Css/Bootstrap/TailwindCss<br/>
+
+
 
 - 🔭 I’m currently working Automation Testing Selenium Java. 
 - 🌱 I’m currently learning Selenium With Java 
