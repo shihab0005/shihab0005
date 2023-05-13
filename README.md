@@ -9,7 +9,7 @@ Development.I work with html, css, javascript, bootstrap, materialUI,
 react.js, firebase, expressJs and node Js to build web apps. Always try 
 to follow best practices for writing clean and understandable code. I try myself keep patient in difficulties and always try to learn something new to do better from previous.
 
-Skills: Manual Testing / API Testing(Postman) / Performance Testing(Jmeter) /Git/Automation Testing(Selenium)/Maven/ HTML / CSS
+Skills: Manual Testing / API Testing(Postman) / Performance Testing(Jmeter) / Git / Automation Testing / Selenium(Java) / Maven / HTML / CSS/JS/ReactJS
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Selenium With Java 
