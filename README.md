@@ -11,6 +11,7 @@ I also work with few web apps project using html, css, javascript, bootstrap, Ta
 ### Skills
  ✔ <b>SDLC and STLC</b> <br/>
  ✔ <b>Manual Testing</b> <br/>
+  ✔ <b>Test case</b> <br/>
  ✔ <b>Automation Testing(Playwright JavaScript)</b><br/>
  ✔ <b>Page Object Model</b> <br/>
  ✔ <b>OOP</b> <br/>
