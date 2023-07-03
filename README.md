@@ -11,8 +11,11 @@ I also work with few web apps project using html, css, javascript, bootstrap, Ta
 ### Skills
  ✔ <b>SDLC and STLC</b> <br/>
  ✔ <b>Manual Testing</b> <br/>
-  ✔ <b>Test case</b> <br/>
- ✔ <b>Automation Testing(Playwright JavaScript)</b><br/>
+ ✔ <b>Test case</b> <br/>
+ ✔ <b>Playwright JavaScript</b><br/>
+ ✔ <b>Selenium Java</b><br/>
+ ✔ <b>TestNG</b><br/>
+ ✔ <b>Allure Report</b><br/>
  ✔ <b>Page Object Model</b> <br/>
  ✔ <b>OOP</b> <br/>
  ✔ <b>API Testing(Postman)</b> <br/>
@@ -23,6 +26,7 @@ I also work with few web apps project using html, css, javascript, bootstrap, Ta
 
 ### Programming
  ✔ <b>Javascript</b> <br/>
+ ✔ <b>Java</b> <br/>
  ✔ <b>C</b> <br/>
  
  
