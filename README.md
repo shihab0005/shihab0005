@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/shihab0005) 
+
 
 ## Hi there 👋, I'm Shihab Khan
 ### Software Engineer(QA)
