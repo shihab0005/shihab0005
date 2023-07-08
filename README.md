@@ -18,11 +18,12 @@ I also work with few web apps project using html, css, javascript, bootstrap, Ta
  
  ### Automation Testing
    ✔ <b>Playwright JavaScript</b><br/>
-   ✔ <b>Allure Report</b><br/>
    ✔ <b>Page Object Model</b> <br/>
    ✔ <b>BDD(Cucumberjs)</b> <br/>
    ✔ <b>Selenium Java (Basic)</b><br/>
    ✔ <b>TestNG  (Basic)</b><br/>
+   ✔ <b>Allure Report</b><br/>
+ 
 
 ### Programming
  ✔ <b>Javascript</b> <br/>
