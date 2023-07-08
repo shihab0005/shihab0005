@@ -8,28 +8,31 @@
 As a computer science student, my keen interest in Software Engineer(QA).I am working with Manual testing ,Performance testing, API testing(postman),Automation Testing with Playwright JavaScript.
 I also work with few web apps project using html, css, javascript, bootstrap, TailwindCss, reactJs, firebase, expressJs and node Js to build . Always try to follow best practices for writing clean and understandable code.I try myself keep patient in difficulties and always try to learn something new to do better from previous.
 
-### Skills
+### Manual Testing
  ✔ <b>SDLC and STLC</b> <br/>
  ✔ <b>Manual Testing</b> <br/>
  ✔ <b>Test case</b> <br/>
- ✔ <b>Playwright JavaScript</b><br/>
- ✔ <b>Selenium Java</b><br/>
- ✔ <b>TestNG</b><br/>
- ✔ <b>Allure Report</b><br/>
- ✔ <b>Page Object Model</b> <br/>
- ✔ <b>OOP</b> <br/>
  ✔ <b>API Testing(Postman)</b> <br/>
  ✔ <b>Performance Testing(Jmeter)</b> <br/>
- ✔ <b>Git</b><br/>
+
  
- 
+ ### Automation Testing
+   ✔ <b>Playwright JavaScript</b><br/>
+   ✔ <b>Allure Report</b><br/>
+   ✔ <b>Page Object Model</b> <br/>
+   ✔ <b>BDD(Cucumberjs)</b> <br/>
+   ✔ <b>Selenium Java (Basic)</b><br/>
+   ✔ <b>TestNG  (Basic)</b><br/>
 
 ### Programming
  ✔ <b>Javascript</b> <br/>
  ✔ <b>Java</b> <br/>
  ✔ <b>C</b> <br/>
+ ✔ <b>OOP</b> <br/>
  
- 
+ ### Programming
+  ✔ <b>Git</b><br/>
+  
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 ### Others Skills
