@@ -5,9 +5,9 @@
 <!-- ![Software Engineer(QA)](https://scontent.fdac24-1.fna.fbcdn.net/v/t1.6435-9/78851512_443968586275048_6159353229860667392_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeER6bxyDy5PHX8CiDKP5ZXyHbg5_07NlRgduDn_Ts2VGMWZXSRj-HSdXAXc5w9adCK4QAxX2yqJIv0VRlNaD8NL&_nc_ohc=_aKuWE3aYD0AX9Uq3by&_nc_ht=scontent.fdac24-1.fna&oh=00_AfC-6rzI3q6ER4KPyoUzCS2ypEXMGqpuw470lt2vcbTEaA&oe=64864E74) -->
 <!-- ![Software Engineer(QA)](https://media.licdn.com/dms/image/D4D35AQFyrTPi1B7JkQ/profile-framedphoto-shrink_200_200/0/1655565877468?e=1684555200&v=beta&t=nFbv8gsolH3-rPtd3xBStxS0LQdp72eHNZYdKVx2zjg) -->
 
-SQAEngineerwith2yearsofexperienceinsoftwaretesting,specializinginAgilemethodologiesandtestautomation
- usingtoolslikePlaywright.Proventrackrecordofensuringhigh-qualitysoftwaredeliverythroughmeticuloustestingand
- defecttracking.Seekingtocontributeexpertiseinadynamic,growth-orientedenvironment
+SQA Engineer with 2+ years of experience in software testing, specializing in Agile methodologies and test automation using tools like Playwright.
+Proven track record of ensuring high-quality software delivery through meticulous testing and defect tracking. Seeking to contribute expertise in a dynamic,
+growth-oriented environment.
 
 ### Manual Testing
  ✔ <b>SDLC and STLC</b> <br/>
