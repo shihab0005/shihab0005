@@ -1,63 +1,87 @@
+<h1 align="center">👋 Hi there, I'm Shihab Khan</h1>
+
+<p align="center">
+  <img align="center" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+</p>
+
+<p align="center">
+  <b>Software Quality Assurance Engineer | Automation & Manual Testing Specialist</b><br/>
+  <i>Passionate about breaking things to make software better!</i>
+</p>
+
+---
+
+### 🚀 About Me
+
+<table>
+<tr>
+<td>
+
+- 🎯 2+ years of experience in **Software QA Engineering**.  
+- 🤖 Skilled in **Manual and Automation Testing**, especially using **Playwright (JavaScript)**.  
+- 🔍 Strong understanding of **SDLC, STLC**, defect lifecycle, and Agile methodologies.  
+- 🧪 Hands-on experience with **API Testing**, **Performance Testing**, and **Test Automation**.  
+- 📊 Passionate about delivering quality with tools like **Postman**, **JMeter**, **Allure**, and **Git**.  
+
+</td>
+<td>
+
+<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/night%20code.gif" width="500" height="300" />
+
+</td>
+</tr>
+</table>
 
 
-## Hi there 👋, I'm Shihab Khan
-### Software Engineer(QA)
-<!-- ![Software Engineer(QA)](https://scontent.fdac24-1.fna.fbcdn.net/v/t1.6435-9/78851512_443968586275048_6159353229860667392_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeER6bxyDy5PHX8CiDKP5ZXyHbg5_07NlRgduDn_Ts2VGMWZXSRj-HSdXAXc5w9adCK4QAxX2yqJIv0VRlNaD8NL&_nc_ohc=_aKuWE3aYD0AX9Uq3by&_nc_ht=scontent.fdac24-1.fna&oh=00_AfC-6rzI3q6ER4KPyoUzCS2ypEXMGqpuw470lt2vcbTEaA&oe=64864E74) -->
-<!-- ![Software Engineer(QA)](https://media.licdn.com/dms/image/D4D35AQFyrTPi1B7JkQ/profile-framedphoto-shrink_200_200/0/1655565877468?e=1684555200&v=beta&t=nFbv8gsolH3-rPtd3xBStxS0LQdp72eHNZYdKVx2zjg) -->
 
-SQA Engineer with 2+ years of experience in software testing, specializing in Agile methodologies and test automation using tools like Playwright.
-Proven track record of ensuring high-quality software delivery through meticulous testing and defect tracking. Seeking to contribute expertise in a dynamic,
-growth-oriented environment.
+---
+## 🧰 Tech Stack & Tools
 
-### Manual Testing
- ✔ <b>SDLC and STLC</b> <br/>
- ✔ <b>Manual Testing</b> <br/>
- ✔ <b>Test case</b> <br/>
- ✔ <b>API Testing(Postman)</b> <br/>
- ✔ <b>Performance Testing(Jmeter)</b> <br/>
-
- 
- ### Automation Testing
-   ✔ <b>Playwright JavaScript</b><br/>
-   ✔ <b>Page Object Model</b> <br/>
-   ✔ <b>BDD(Cucumberjs)</b> <br/>
-   ✔ <b>Selenium Java (Basic)</b><br/>
-   ✔ <b>TestNG  (Basic)</b><br/>
-   ✔ <b>Allure Report</b><br/>
- 
-
-### Programming
- ✔ <b>Javascript</b> <br/>
- ✔ <b>Java</b> <br/>
- ✔ <b>C</b> <br/>
- ✔ <b>OOP</b> <br/>
- 
- ### Version Control
-  ✔ <b>Git</b><br/>
-  ✔ <b>GitHub</b><br/>
-  
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-### Others Skills
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+| Category                 | Tools                                                                                          |
+|--------------------------|------------------------------------------------------------------------------------------------|
+| **Testing Tools**        | ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  ![Swagger](https://img.shields.io/badge/-Swagger-%2385EA2D?style=for-the-badge&logo=swagger&logoColor=white) ![JMeter](https://img.shields.io/badge/-JMeter-informational?style=for-the-badge&logo=apache&logoColor=white) ![Allure Report](https://img.shields.io/badge/-Allure-informational?style=for-the-badge&logo=allure&logoColor=white) |
+| **Automation & Frameworks** | ![Selenium](https://img.shields.io/badge/-selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white)  ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)  ![Cucumber](https://img.shields.io/badge/-Cucumber-%239BDD61?style=for-the-badge&logo=cucumber&logoColor=white) ![Page Object Model](https://img.shields.io/badge/-Page%20Object%20Model-informational?style=for-the-badge&logo=code&logoColor=white) |
+| **Languages**            | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![OOP](https://img.shields.io/badge/-OOP-informational?style=for-the-badge&logo=code) | 
+| **Version Control**      | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
+---
 
 
-- 🔭 I’m currently working Automation Testing Playwright JavaScript. 
-- 🌱 I’m currently learning Playwright with JavaScript 
-- 💬 Ask me about Manual testing/Postman/Jmeter/Playwright(JavaScript)/OOP/git/Allure Report 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-shihab-khan-b72b4a241/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shihab0005) 
+<table>
+<tr>
+<td width="160px" align="center" valign="top">
+  <img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="Raghav Khullar" width="150" height="150" />
+</td>
+<td valign="top">
 
+### 📚 Currently Learning
+- Advanced **Playwright** techniques for robust end-to-end testing.  
+- Building scalable automation frameworks using **Page Object Model** + **CucumberJS**.  
+- Exploratory and performance testing using **JMeter** & **Postman Collections**.  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shihab0005)](https://github.com/ryo-ma/github-profile-trophy)
+</td>
+</tr>
+</table>
+---
+### 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shihab0005)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shihab0005&theme=gruvbox&margin-w=10" />
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shihab0005&show_icons=true)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shihab0005&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihab0005&layout=compact&theme=radical" width="48%" />
+</p>
+---
 
-![GitHub metrics](https://metrics.lecoq.io/shihab0005)  
+### 💬 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-shihab-khan-b72b4a241/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/shihab0005)
 
+---
+
+---
 
 
 
